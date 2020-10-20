@@ -3,7 +3,6 @@ using namespace std;
 int main ()
 {
 	int a,b,c,d;
-	int x,y,z,f;
 	
 	
 	cout<<"Umur Ayah	: ";
