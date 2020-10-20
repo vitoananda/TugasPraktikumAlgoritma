@@ -1,8 +1,8 @@
 #include <stdio.h>
 main()
 {
-	char NAMA[51];
-	char NIM[51];
+	char NAMA[61];
+	char NIM[61];
 	
 	printf("INPUT NILAI MAHASISWA : \n");
 	printf("----------------------------\n");
