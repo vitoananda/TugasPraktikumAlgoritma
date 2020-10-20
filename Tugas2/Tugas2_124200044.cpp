@@ -4,7 +4,7 @@ int main ()
 {
 	int a,b,c,d;
 	int x,y,z,f;
-	double m;
+	
 	
 	cout<<"Umur Ayah	: ";
 	cin>>a;
