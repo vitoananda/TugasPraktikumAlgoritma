@@ -1,9 +1,8 @@
 #include<iostream>
-#include<windows.h>
 using namespace std;
 int main()
 {
-	int a,b,c,d,e,f,g,h,i,j;
+	int a,b,c,e,g,i,j;
 	
 	cout<<"Gambar Bangun Datar ====="<<endl;
 	cout<<"1.Kotak Bolong"<<endl;
@@ -27,11 +26,10 @@ int main()
         		}
 				else
 				{
-			cout << " " ;
-		}
-		}
+				cout << " " ;
+				}
+				}
 		cout << endl;
-		Sleep(700);
 		}
 		break;
 		case 2:
@@ -47,7 +45,6 @@ int main()
 				e=e+i+1 ;
 				}
 				cout<<endl ;
-			Sleep(700);
 			}
 		break;
 		
@@ -57,25 +54,3 @@ int main()
 	}
 	return 0;
 }
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-		
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-
